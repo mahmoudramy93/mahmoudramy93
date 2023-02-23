@@ -1,8 +1,9 @@
 <p align="center"><img alt="Hello My Friend!" src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&pause=1000&lines=Hello+My+Friend!" /></p>
 <h1 align="center">Hi 👋, I'm Mahmoud elbehery</h1>
-<h3 align="center">A passionate flutter developer from Egypt</h3>
+<h3 align="center"> IT infrastructure, Communication and network management, system operations, service management.
+</h3>
 
-- 🌱 I’m currently learning **Network & System Administrator, I.T Infrastructure Support**
+- 🌱 I’m currently learning **Software Engineering at ALX Programme**
 
 - 💬 Ask me about ** IT infrastructure, Communication and network management, system operations, service management.
 **
@@ -12,7 +13,6 @@
 - ⚡ Fun fact **I think I like to know how things work under the hood**
 
 
-📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Africa/Cairo
