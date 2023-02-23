@@ -1,6 +1,6 @@
 <p align="center"><img alt="Hello My Friend!" src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&pause=1000&lines=Hello+My+Friend!" /></p>
 <h1 align="center">Hi 👋, I'm Mahmoud elbehery</h1>
-<h3 align="center"> IT infrastructure, Communication and network management, system operations, service management.
+<h3 align="center"> Network & System Administrator, I.T Infrastructure Support at Harvest Foods Egypt
 </h3>
 
 - 🌱 I’m currently learning **Software Engineering at ALX Programme**
@@ -18,13 +18,13 @@
 🕑︎ Time Zone: Africa/Cairo
 
 💬 Programming Languages: 
-C                        15 hrs 1 min        █████████████████████░░░░   84.27 % 
-Bash                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-sh                       19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Python                   15 hrs 1 min       █████████████████████░░░░   84.27 % 
+C                        27 mins            █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Pash                     19 mins            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 🔥 Editors: 
 Vim                      17 hrs 40 mins      █████████████████████████   99.04 % 
-Neovim                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+V.S code                   10 mins           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🐱‍💻 Projects: 
 alx-low_level_programming14 hrs 14 mins      ████████████████████░░░░░   79.82 % 
@@ -32,17 +32,7 @@ Unknown Project          3 hrs 34 mins       █████░░░░░░�
 
 💻 Operating System: 
 Linux                    17 hrs 50 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Dart** 
-
-```text
-Python                     21 repos          ████████████░░░░░░░░░░░░░   48.84 %  
-Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-
-```
+Windows                  17 hrs 50 mins      █████████████████████████   100.00 %
 
 
-## ✍️ Random Dev Quote
 
