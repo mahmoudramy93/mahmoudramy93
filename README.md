@@ -1,5 +1,5 @@
-<p align="center"><img alt="Hello My Friend!" src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&pause=1000&lines=Hello+My+Friend!" /></p>
-<h1 align="center">Hi 👋, I'm Mahmoud elbehery</h1>
+<p align="center"><img alt="Hello, world!👋" src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&pause=1000&lines=Hello+My+Friend!" /></p>
+<h1 align="center">I'm Mahmoud elbehery</h1>
 <h3 align="center"> Network & System Administrator, I.T Infrastructure Support at Harvest Foods Egypt
 </h3>
 
