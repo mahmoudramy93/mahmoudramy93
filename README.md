@@ -20,7 +20,8 @@
 💬 Programming Languages: 
 Python                  
 C                        
-Pash                     
+Pash
+Node.js                     
 
 🔥 Editors: 
 Vim                     
@@ -28,11 +29,11 @@ V.S code
 
 🐱‍💻 Projects:
 alx-low_level_programming
-Unknown Project          
+alx-system_engineering-devops
+alx-higher_level_programming
+AirBnB_clone
 
 💻 Operating System: 
 Linux              
-Windows                   
-
-
-
+Windows
+Windows server                   
