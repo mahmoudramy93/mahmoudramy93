@@ -1,9 +1,9 @@
 <p align="center"><img alt="Hello, world!👋" src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&pause=1000&lines=Hello,+world!+👋" /></p>
 <h1 align="center">I'm Mahmoud Elbehery</h1>
-<h3 align="center"> Network & System Administrator, I.T Infrastructure Support at Harvest Foods Egypt
+<h3 align="center"> Senior System Administrator, I.T Infrastructure Support | Devops engineer at Harvest Foods Egypt
 </h3>
 
-- 🌱 I’m currently learning **Software Engineering at ALX Programme**
+- 🌱 I’m currently learning **Software Engineering at @ALX Programme**
 
 - 💬 Ask me about ** IT infrastructure, Communication and network management, system operations, service management.
 **
