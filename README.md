@@ -23,20 +23,18 @@
 # Skills Portfolio
 
 ## Software Engineering & Web Development
-- Develop and maintain code
+- Develop and maintain code (Python, Node.js)
 - Write unit tests (pytest, unittest)
-- Debug software
-- Integrate third-party code and APIs (APIs, REST)
 - Write back-end code and logic (Django, Flask)
 - Build the database schema (MySQL, NoSQL databases)
-- Provide mechanisms to communicate with and update the back-end
+- Provide mechanisms to communicate with and update the back-end (RESTful)
 - Maintain the back-end updated and optimized (Git, Continuous Integration)
 - Deploy applications using tools like Docker and AWS
 
 ## System Administration & DevOps
 - Linux/Unix and Windows Server Administration
 - Network Configuration and Security
-- Cloud Services Management (AWS, Azure, GCP)
+- Cloud Services Management (AWS, Azure)
 - Virtualization Technologies (VMware, Hyper-V)
 - Containerization (Docker, Kubernetes)
 - Automation and Scripting (Bash, PowerShell, Python)
