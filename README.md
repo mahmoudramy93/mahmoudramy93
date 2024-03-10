@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently devolop  ** Backend Software Application **
 
-- 💬 Ask me about ** With over 7 years of experience spanning IT infrastructure, network management, system operations, and service management, I offer significant expertise to any project. As a Senior System Administrator, I specialize in security and infrastructure engineering for data centers, while also embracing software engineering and DevOps roles in freelance projects, broadening my technological proficiency.
+- 💬 Ask me About ** With over 7 years of experience spanning IT infrastructure, network management, system operations, and service management, I offer significant expertise to any project. As a Senior System Administrator, I specialize in security and infrastructure engineering for data centers, while also embracing software engineering and DevOps roles in freelance projects, broadening my technological proficiency.
 
-Drawing from this diverse background, I excel in engineering software solutions, particularly in backend development, and seamlessly integrating DevOps practices. My journey from system administration to software engineering equips me with a holistic perspective, enabling me to lead projects from inception to execution with efficiency.
+- Drawing from this diverse background, I excel in engineering software solutions, particularly in backend development, and seamlessly integrating DevOps practices. My journey from system administration to software engineering equips me with a holistic perspective, enabling me to lead projects from inception to execution with efficiency.
 
-I thrive on collaboration, ensuring timely project completion while adhering to budgetary constraints. My agility as a learner enables me to craft innovative solutions to complex challenges.
+- I thrive on collaboration, ensuring timely project completion while adhering to budgetary constraints. My agility as a learner enables me to craft innovative solutions to complex challenges.
 **
 
 - 📫 How to reach me **mahmoudramy93@outlook.com**
