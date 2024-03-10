@@ -2,7 +2,7 @@
 <h1 align="center">I'm Mahmoud Elbehery</h1>
 <h3 align="center"> Senior System Administrator, I.T Infrastructure Engineer @Harvest Foods Groub |  Freelance Software Engineer, Devops </h3>
 
-- 🌱 I’m currently devolop  ** Backend Software Application **
+- 🌱 I’m currently devolop  ** Backend Software, deployment, and operations through automation, collaboration, and continuous integration/continuous deployment (CI/CD) practices. **
 
 - 💬 Ask me About ** With over 7 years of experience spanning IT infrastructure, network management, system operations, and service management, I offer significant expertise to any project. As a Senior System Administrator, I specialize in security and infrastructure engineering for data centers, while also embracing software engineering and DevOps roles in freelance projects, broadening my technological proficiency.
 
