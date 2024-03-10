@@ -20,24 +20,37 @@ I thrive on collaboration, ensuring timely project completion while adhering to 
 ```text
 🕑︎ Time Zone: Africa/Cairo
 
-💬 Programming Languages: 
-Python                  
-C                        
-Pash
-Node.js                     
+# Skills Portfolio
 
-🔥 Editors: 
-Vim                     
-V.S code                   
+## Software Engineering & Web Development
+- Develop and maintain code
+- Write unit tests (pytest, unittest)
+- Debug software
+- Integrate third-party code and APIs (APIs, REST)
+- Write back-end code and logic (Django, Flask)
+- Build the database schema (MySQL, NoSQL databases)
+- Provide mechanisms to communicate with and update the back-end
+- Maintain the back-end updated and optimized (Git, Continuous Integration)
+- Deploy applications using tools like Docker and AWS
 
-🐱‍💻 Projects:
-alx-low_level_programming
-alx-system_engineering-devops
-alx-higher_level_programming
-AirBnB_clone
-Technology-City
+## System Administration & DevOps
+- Linux/Unix and Windows Server Administration
+- Network Configuration and Security
+- Cloud Services Management (AWS, Azure, GCP)
+- Virtualization Technologies (VMware, Hyper-V)
+- Containerization (Docker, Kubernetes)
+- Automation and Scripting (Bash, PowerShell, Python)
+- Database Management (SQL, NoSQL)
+- System Monitoring and Performance Tuning
+- Disaster Recovery and Backup Solutions
 
-💻 Operating System: 
-Linux              
-Windows
-Windows server                   
+## Soft Skills
+- Effective Communication
+- Problem-Solving and Critical Thinking
+- Adaptability and Flexibility
+- Time Management and Prioritization
+- Teamwork and Collaboration
+- Customer Service Orientation
+- Stress Management and Resilience
+- Continuous Learning and Professional Development
+- Leadership and Mentoring         
