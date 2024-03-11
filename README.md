@@ -19,7 +19,7 @@
 
 🕑︎ Time Zone: Africa/Cairo
 
-# Skills Portfolio
+<h1>Skills Portfolio<h1/>
 
 ## Software Engineering & Web Development
 - Develop and maintain code (Python, Node.js)
@@ -28,7 +28,7 @@
 - Write back-end code and logic (Django, Flask)
 - Build the database schema (MySQL, NoSQL databases)
 - Provide mechanisms to communicate with and update the back-end (RESTful API)
-- Configuration Management (CM), Infrastructure as code (IaC) (Ansible, Puppet, Terraform)
+- Configuration Management (CM), Infrastructure as code (IaC) (Ansible, Puppet)
 - Deploy applications using tools like (Docker, AWS)
 
 ## System Administration & DevOps
@@ -38,7 +38,6 @@
 - Virtualization Technologies (VMware, Hyper-V)
 - Containerization (Docker)
 - Automation and Scripting (Bash, PowerShell, Python)
-- Database Management (SQL, NoSQL)
 - System Monitoring and Performance Tuning (Datadog, Solarwinds)
 - Disaster Recovery and Backup Solutions (Veeam, Acronis)
 
