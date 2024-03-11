@@ -23,7 +23,7 @@
 # Skills Portfolio
 
 ## Software Engineering & Web Development
-- Develop and maintain code (Python, Node.js) - <img src="Python.JPEG" alt="Python Icon" style="vertical-align: middle; width: 20px;"> 
+- Develop and maintain code (Python, Node.js)  <img src="Python.JPEG" alt="Python Icon"> 
 
 - Write unit tests (pytest, unittest)
 - Write back-end code and logic (Django, Flask)
