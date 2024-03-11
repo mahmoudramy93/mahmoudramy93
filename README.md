@@ -23,8 +23,7 @@
 # Skills Portfolio
 
 ## Software Engineering & Web Development
-- Develop and maintain code (Python, Node.js)  <img src="Python.JPEG" alt="Python Icon"> 
-
+- Develop and maintain code (Python, Node.js)
 - Write unit tests (pytest, unittest)
 - Write back-end code and logic (Django, Flask)
 - Build the database schema (MySQL, NoSQL databases)
@@ -34,14 +33,14 @@
 
 ## System Administration & DevOps
 - Linux/Unix and Windows Server Administration
-- Network Configuration and Security
+- Network Configuration and Security (cisco, Paloalto, Fortinet, Sophose)
 - Cloud Services Management (AWS, Azure)
 - Virtualization Technologies (VMware, Hyper-V)
 - Containerization (Docker, Kubernetes)
 - Automation and Scripting (Bash, PowerShell, Python)
 - Database Management (SQL, NoSQL)
-- System Monitoring and Performance Tuning
-- Disaster Recovery and Backup Solutions
+- System Monitoring and Performance Tuning (Datadog, Solarwinds)
+- Disaster Recovery and Backup Solutions (Veeam)
 
 ## Soft Skills
 - Effective Communication
