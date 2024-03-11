@@ -17,7 +17,7 @@
 
 
 
-🕑︎ Time Zone: Africa/Cairo
+  🕑︎ Time Zone: Africa/Cairo
 
 <h1>Skills Portfolio<h1/>
 
