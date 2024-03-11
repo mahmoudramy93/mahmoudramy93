@@ -12,7 +12,8 @@
 **
 
 - 📫 How to reach me **mahmoudramy93@outlook.com** <br/>
-                      **https://mahmoudramy84.github.io/My_Portfolio/**
+                      **https://mahmoudramy84.github.io/My_Portfolio/** <br/>
+                      **https://twitter.com/mahmoudramy84**
 
 - ⚡ Fun fact **I think I like to know how things work under the hood**
 
