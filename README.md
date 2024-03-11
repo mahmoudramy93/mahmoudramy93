@@ -23,7 +23,7 @@
 
 ## Software Engineering & Web Development
 - Develop and maintain code (Python, Node.js)
-   <img src="Python.jpeg" alt="Python Icon">         <img src="Node js.jpeg">
+   <img src="Python.jpeg" alt="Python Icon" style="vertical-align: middle; width: 20px;">         <img src="Node js.jpeg" alt="Node js" style="vertical-align: middle; width: 20px;">
 - Write unit tests (pytest, unittest)
 - Write back-end code and logic (Django, Flask)
 - Build the database schema (MySQL, NoSQL databases)
