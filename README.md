@@ -16,12 +16,9 @@
                       **https://mahmoudramy84.github.io/My_Portfolio/** <br/>
                       **www.linkedin.com/in/mahmoud-ramy-elbehery-752aab235** <br/>
                       **https://twitter.com/mahmoudramy84**
-
+-  🕑︎ Time Zone: Africa/Cairo
 - ⚡ Fun fact **I think I like to know how things work under the hood**
 
-
-
-  🕑︎ Time Zone: Africa/Cairo
 
 <h1>Skills Portfolio<h1/>
 
