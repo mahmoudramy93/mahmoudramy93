@@ -11,7 +11,7 @@
 - I thrive on collaboration, ensuring timely project completion while adhering to budgetary constraints. My agility as a learner enables me to craft innovative solutions to complex challenges.
 **
 
-- 📫 How to reach me:
+- 📫 How to reach me: <br/>
                       **mahmoudramy93@outlook.com** <br/>
                       **https://mahmoudramy84.github.io/My_Portfolio/** <br/>
                       **www.linkedin.com/in/mahmoud-ramy-elbehery-752aab235** <br/>
