@@ -1,6 +1,6 @@
 <p align="center"><img alt="Hello, world!👋" src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&pause=1000&lines=Hello,+world!+👋" /></p>
 <h1 align="center">I'm Mahmoud Elbehery</h1>
-<h3 align="center"> Senior System Administrator, I.T Infrastructure Engineer @Harvest Foods Groub |  Freelance Software Engineer, Devops </h3>
+<h3 align="center"> Freelance Software Engineer, Devops | <br/> Senior System Administrator, I.T Infrastructure Engineer @Harvest Foods Groub</h3>
 
 - 🌱 I’m currently devolop  ** Backend Software, deployment, and operations through automation, collaboration, and continuous integration/continuous deployment (CI/CD) practices. **
 
