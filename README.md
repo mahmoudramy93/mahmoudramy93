@@ -23,13 +23,13 @@ My diverse background enables me to excel in backend development and seamlessly 
 <h1>Skills Portfolio<h1/>
 
 ## Software Engineering & Web Development
-Proficient in Python, Node.js
-Experienced in unit testing (pytest, unittest)
-Backend development with Express.js, Flask
-Database schema design (MySQL, NoSQL databases)
-RESTful API development and integration
-Configuration Management (CM) & Infrastructure as Code (IaC) with Ansible, teraform
-Application deployment using Docker and AWS
+- Proficient in Python, Node.js
+- Experienced in unit testing (pytest, unittest)
+- Backend development with Express.js, Flask
+- Database schema design (MySQL, NoSQL databases)
+- RESTful API development and integration
+- Configuration Management (CM) & Infrastructure as Code (IaC) with Ansible, teraform
+- Application deployment using Docker and AWS
 
 ## System Administration & DevOps
 - Linux/Unix and Windows Server Administration
