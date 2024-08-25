@@ -1,14 +1,14 @@
 <p align="center"><img alt="Hello, world!👋" src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&pause=1000&lines=Hello,+world!+👋" /></p>
 <h1 align="center">I'm Mahmoud Elbehery</h1>
-<h3 align="center"> Study Software Engineer, Devops @ Holberton School | <br/> Senior System Administrator, I.T Infrastructure Engineer @Harvest Foods Groub</h3>
+<h3 align="center"> Freelance Software Engineer | DevOps | Senior System Administrator | IT Infrastructure Engineer @ Harvest Foods Group</h3>
 
-- 🌱 I’m currently devolop  ** Backend Software, deployment, and operations through automation, collaboration, and continuous integration/continuous deployment (CI/CD) practices. **
+- 🌱 Current Focus:
+Developing backend software, deployment, and operations through automation, collaboration, and continuous integration/continuous deployment (CI/CD) practices. **
 
-- 💬 Ask me About ** With over 7 years of experience spanning IT infrastructure, network management, system operations, and service management, I offer significant expertise to any project. As a Senior System Administrator, I specialize in security and infrastructure engineering for data centers, while also embracing software engineering and DevOps roles in freelance projects, broadening my technological proficiency.
+💬 Expertise:
+With over 7 years of experience in IT infrastructure, network management, system operations, and service management, I bring a wealth of knowledge to every project. As a Senior System Administrator, I specialize in security and infrastructure engineering for data centers. My freelance work in software engineering and DevOps further enhances my technological proficiency, allowing me to bridge the gap between system administration and software development.
 
-- Drawing from this diverse background, I excel in engineering software solutions, particularly in backend development, and seamlessly integrating DevOps practices. My journey from system administration to software engineering equips me with a holistic perspective, enabling me to lead projects from inception to execution with efficiency.
-
-- I thrive on collaboration, ensuring timely project completion while adhering to budgetary constraints. My agility as a learner enables me to craft innovative solutions to complex challenges.
+My diverse background enables me to excel in backend development and seamlessly integrate DevOps practices into projects. This holistic perspective allows me to lead initiatives from inception to execution efficiently, ensuring successful outcomes within budgetary and time constraints. I’m driven by collaboration and a continuous desire to innovate, applying my skills to solve complex challenges.
 **
 
 - 📫 How to reach me: <br/>
@@ -23,14 +23,13 @@
 <h1>Skills Portfolio<h1/>
 
 ## Software Engineering & Web Development
-- Develop and maintain code (Python, Node.js)
-   <img src="Python.jpeg" alt="Python Icon" style="vertical-align: middle; width: 20px;">         <img src="Node js.jpeg" alt="Node js" style="vertical-align: middle; width: 20px;">
-- Write unit tests (pytest, unittest)
-- Write back-end code and logic (Django, Flask)
-- Build the database schema (MySQL, NoSQL databases)
-- Provide mechanisms to communicate with and update the back-end (RESTful API)
-- Configuration Management (CM), Infrastructure as code (IaC) (Ansible, Puppet)
-- Deploy applications using tools like (Docker, AWS)
+Proficient in Python, Node.js
+Experienced in unit testing (pytest, unittest)
+Backend development with Express.js, Flask
+Database schema design (MySQL, NoSQL databases)
+RESTful API development and integration
+Configuration Management (CM) & Infrastructure as Code (IaC) with Ansible, teraform
+Application deployment using Docker and AWS
 
 ## System Administration & DevOps
 - Linux/Unix and Windows Server Administration
