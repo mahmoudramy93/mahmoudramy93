@@ -11,14 +11,7 @@ With over 7 years of experience in IT infrastructure, network management, system
 My diverse background enables me to excel in backend development and seamlessly integrate DevOps practices into projects. This holistic perspective allows me to lead initiatives from inception to execution efficiently, ensuring successful outcomes within budgetary and time constraints. I’m driven by collaboration and a continuous desire to innovate, applying my skills to solve complex challenges.
 **
 
-- 📫 How to reach me: <br/>
-                      **mahmoudramy93@outlook.com** <br/>
-                      **https://mahmoudramy84.github.io/portfolio/** <br/>
-                      **www.linkedin.com/in/mahmoud-ramy-elbehery-752aab235** <br/>
-                      **https://twitter.com/mahmoudramy84**
--  🕑︎ Time Zone: Africa/Cairo
 - ⚡ Fun fact **I think I like to know how things work under the hood**
-
 
 <h1>Skills Portfolio<h1/>
 
@@ -51,3 +44,10 @@ My diverse background enables me to excel in backend development and seamlessly 
 - Stress Management and Resilience
 - Continuous Learning and Professional Development
 - Leadership and Mentoring         
+
+- 📫 How to reach me: <br/>
+                      **mahmoudramy93@outlook.com** <br/>
+                      **https://mahmoudramy84.github.io/portfolio/** <br/>
+                      **www.linkedin.com/in/mahmoud-ramy-elbehery-752aab235** <br/>
+                      **https://twitter.com/mahmoudramy84**
+-  🕑︎ Time Zone: Africa/Cairo
