@@ -49,5 +49,5 @@ My diverse background enables me to excel in backend development and seamlessly 
                       **mahmoudramy93@outlook.com** <br/>
                       **https://mahmoudramy93.github.io/portfolio/** <br/>
                       **www.linkedin.com/in/mahmoud-ramy-elbehery** <br/>
-                      **https://twitter.com/mahmoudramy84**
+                      **https://twitter.com/mahmoudramy93**
 -  🕑︎ Time Zone: Africa/Cairo
