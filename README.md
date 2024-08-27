@@ -2,11 +2,11 @@
 <h1 align="center">I'm Mahmoud Elbehery</h1>
 <h3 align="center"> Freelance Software Engineer | DevOps | Senior System Administrator | IT Infrastructure Engineer @ Harvest Foods Group</h3>
 
-- 🌱 Current Focus:
-Developing backend software, deployment, and operations through automation, collaboration, and continuous integration/continuous deployment (CI/CD) practices. **
+🌱 Current Focus:
+Developing backend software(api design and managment), database schema design and managment(SQL, NoSQL), containerization (Docker), deployment (cloud and on-premise), and operations through automation (IAC using Ansible & Shell), collaboration, and continuous integration/continuous deployment (CI/CD) practices.
 
 💬 Expertise:
-With over 7 years of experience in IT infrastructure, network management, system operations, and service management, I bring a wealth of knowledge to every project. As a Senior System Administrator, I specialize in security and infrastructure engineering for data centers. My freelance work in software engineering and DevOps further enhances my technological proficiency, allowing me to bridge the gap between system administration and software development.
+With over 8 years of experience in IT infrastructure, network management, system operations, and service management, I bring a wealth of knowledge to every project, I specialize in network security and infrastructure engineering for data centers. While also embracing software engineering and DevOps roles in freelance projects, further enhances my technological proficiency, allowing me to bridge the gap between system administration and software development.
 
 My diverse background enables me to excel in backend development and seamlessly integrate DevOps practices into projects. This holistic perspective allows me to lead initiatives from inception to execution efficiently, ensuring successful outcomes within budgetary and time constraints. I’m driven by collaboration and a continuous desire to innovate, applying my skills to solve complex challenges.
 **
