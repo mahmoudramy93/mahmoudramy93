@@ -19,18 +19,19 @@ My diverse background enables me to excel in backend development and seamlessly 
 - Proficient in Python, Node.js
 - Backend development with Express.js, Flask
 - Database schema design (SQL, NoSQL databases)
-- RESTful API development and integration
-- Configuration Management (CM) & Infrastructure as Code (IaC) with Ansible, teraform
-- Application deployment using Docker and AWS
+- API Design & management
+- Application deployment using K8s and AWS
 
 ## System Administration & DevOps
 - Linux/Unix and Windows Server Administration
 - Network Configuration and Security (cisco, Paloalto, Fortinet, Sophose)
 - Cloud Services Management (AWS, Azure)
 - Virtualization Technologies (VMware, Hyper-V)
-- Containerization (Docker)
+- Containerization & Orchestration (Docker, kubernetes)
+- Continuous integration/Continuous deployment (CI/CD) (Github action, Argo CD)
+- Configuration Management (CM) & Infrastructure as Code (IaC) with Ansible, teraform
 - Automation and Scripting (Bash, PowerShell, Python)
-- System Monitoring and Performance Tuning (Datadog, Solarwinds)
+- System Monitoring and Performance Tuning (Datadog, Prometheus)
 - Disaster Recovery and Backup Solutions (Veeam, Acronis)
 
 ## Soft Skills
