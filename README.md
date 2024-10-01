@@ -1,6 +1,6 @@
 <p align="center"><img alt="Hello, world!👋" src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&pause=1000&lines=Hello,+world!+👋" /></p>
 <h1 align="center">I'm Mahmoud Elbehery</h1>
-<h3 align="center"> Freelance Software Engineer | DevOps | Senior System Administrator | IT Infrastructure Engineer @ Harvest Foods Group</h3>
+<h3 align="center"> Backend Software Engineer | DevOps | Senior System Administrator | IT Infrastructure Engineer @ Harvest Foods Group</h3>
 
 🌱 Current Focus:
 Developing backend software(api design and managment), database schema design and managment(SQL, NoSQL), containerization (Docker), deployment (cloud and on-premise), and operations through automation (IAC using Ansible & Shell), collaboration, and continuous integration/continuous deployment (CI/CD) practices.
