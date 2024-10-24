@@ -34,17 +34,6 @@ My diverse background enables me to excel in backend development and seamlessly 
 - System Monitoring and Performance Tuning (Datadog, Prometheus)
 - Disaster Recovery and Backup Solutions (Veeam, Acronis)
 
-## Soft Skills
-- Effective Communication
-- Problem-Solving and Critical Thinking
-- Adaptability and Flexibility
-- Time Management and Prioritization
-- Teamwork and Collaboration
-- Customer Service Orientation
-- Stress Management and Resilience
-- Continuous Learning and Professional Development
-- Leadership and Mentoring         
-
 - 📫 How to reach me: <br/>
                       **mahmoudramy93@outlook.com** <br/>
                       **https://mahmoud-elbehery.netlify.app/** <br/>
